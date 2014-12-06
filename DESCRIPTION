@@ -1,7 +1,7 @@
 Package: TCGAMethylation450k
 Type: Package
 Title: The Cancer Genome Atlas Illumina 450k methylation example data
-Version: 1.3.0
+Version: 1.3.1
 Date: 2011-10-21
 Author: Sean Davis
 Maintainer: Sean Davis <sdavis2@mail.nih.gov>
@@ -9,3 +9,4 @@ Description: The Cancer Genome Atlas (TCGA) is applying genomics technologies
   to over 20 different types of cancer.  This package contains a small set of
   450k array data in idat format.  
 License: GPL-2
+biocViews: Genome, CancerData, MethylationArrayData
