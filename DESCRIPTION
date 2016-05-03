@@ -1,7 +1,7 @@
 Package: TCGAMethylation450k
 Type: Package
 Title: The Cancer Genome Atlas Illumina 450k methylation example data
-Version: 1.7.0
+Version: 1.8.0
 Date: 2011-10-21
 Author: Sean Davis
 Maintainer: Sean Davis <sdavis2@mail.nih.gov>
